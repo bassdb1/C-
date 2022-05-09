@@ -1,7 +1,7 @@
-﻿// adding this namespace, or library in my program.
+﻿// adding this namespace, or library in my program.  So I can use 'System' 'Console' 'class' and use the 'WriteLine' Method
 using System;
 
-// Namespace
+// Namespace - usually the name of the program.  It keeps all of our classes and functions
 namespace NumberGuesser
 {
     // Main Class - Inside this class, I can have Methods(functions) and properties (variables), I can also make objects
@@ -12,11 +12,11 @@ namespace NumberGuesser
         {
             // Here is where we start our code
 
-            GetAppInfo();  // This function gets AppInfo
+            GetAppInfo();  // This Method gets AppInfo and displays to the screen, I make a method, so I do not repeat myself, I do not want to ask over and over with code
 
-            GreetUser();   // Ask for users name and greet
+            GreetUser();   // This Method asks for users name and greets them
 
-            // While Loop to keep this program from starting - on going loop
+            // While Loop to keep this program running - 'on going loop'
             while (true)
             {
 
@@ -24,12 +24,12 @@ namespace NumberGuesser
                 // int correctNumber = 7;
 
 
-                //Create a new Random object
+                //Create a new Random object - we do this so we can use the random.Next Method.
                 Random random = new Random();
 
                 // Creates a random number between 1 and 10 
-                int correctNumber = random.Next(1, 10);
-
+                int correctNumber = random.Next(1, 10);  // This object 'random' and the '.Next' method creates a random number and places the value in 'correctNumber'
+                                                         //  random.Next(1, 10) = means it gets a random number between 1 and 10
 
                 // Initialize the guessNumber variable to 0
                 int guessNumber = 0;
@@ -40,14 +40,14 @@ namespace NumberGuesser
                 //while loop - to run until the right number is chosen
                 while (guessNumber != correctNumber)
                 {
-                    // Get users input, and store the value in the variable inputGuess
+                    // Get users input, and store the value in the variable 'inputGuess'
                     string inputGuess = Console.ReadLine();
 
                     //Make sure the user entered a number
                     if (!int.TryParse(inputGuess, out guessNumber))
                     {
                         // Print error message
-                        PrintColorMessage(ConsoleColor.Red, "Please enter an actual number");
+                        PrintColorMessage(ConsoleColor.Red, "Please enter an actual number");  // Calling PrintColorMessage Method with (2 arguments)
 
                         // Keep going, breaks out of the loop
                         continue;
@@ -61,13 +61,13 @@ namespace NumberGuesser
                     if (guessNumber != correctNumber)
                     {
                         // Print error message
-                        PrintColorMessage(ConsoleColor.Red, "Wrong number, please try again");
+                        PrintColorMessage(ConsoleColor.Red, "Wrong number, please try again"); // Calling PrintColorMessage Method with (2 arguments)
                     }
                 }
 
                
                 // Output success message
-                PrintColorMessage(ConsoleColor.Yellow, "You are CORRECT!!!");
+                PrintColorMessage(ConsoleColor.Yellow, "You are CORRECT!!!"); // Calling PrintColorMessage Method with (2 arguments)
 
 
                 // Ask the user if they want to play again
@@ -94,7 +94,7 @@ namespace NumberGuesser
         // Get and Display App Info
         static void GetAppInfo()
         {
-            // Set App Vars - Header
+            // Set App Variables - Header
             string appName = "Number Guesser";
             string appVersion = "1.0.0";
             string appAuthor = "David Bass";
@@ -102,7 +102,7 @@ namespace NumberGuesser
             // Change Header Color
             Console.ForegroundColor = ConsoleColor.Green;
 
-            //Write out Header to the Screen
+            //Write out Header to the Screen {0} = are called placeholders
             Console.WriteLine("{0}: Version {1} by {2}", appName, appVersion, appAuthor);
 
             // Change text color back to default
@@ -121,7 +121,7 @@ namespace NumberGuesser
             Console.WriteLine("Hello {0}, let's play a game...", userName);
 
         }
-        // Print color message, will take parameters
+        // Print color message, will take 2 parameters
         static void PrintColorMessage(ConsoleColor color, string message)  // define the arguments
         {
             // Change text Color
