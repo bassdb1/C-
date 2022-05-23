@@ -1,0 +1,15 @@
+C:\dbass\source\repos\WPFUI\WPFUI\bin\Debug\WPFUI.exe.config
+C:\dbass\source\repos\WPFUI\WPFUI\bin\Debug\WPFUI.exe
+C:\dbass\source\repos\WPFUI\WPFUI\bin\Debug\WPFUI.pdb
+C:\dbass\source\repos\WPFUI\WPFUI\obj\Debug\WPFUI.csproj.AssemblyReference.cache
+C:\dbass\source\repos\WPFUI\WPFUI\obj\Debug\MainWindow.g.cs
+C:\dbass\source\repos\WPFUI\WPFUI\obj\Debug\App.g.cs
+C:\dbass\source\repos\WPFUI\WPFUI\obj\Debug\WPFUI_MarkupCompile.cache
+C:\dbass\source\repos\WPFUI\WPFUI\obj\Debug\WPFUI_MarkupCompile.lref
+C:\dbass\source\repos\WPFUI\WPFUI\obj\Debug\MainWindow.baml
+C:\dbass\source\repos\WPFUI\WPFUI\obj\Debug\WPFUI.g.resources
+C:\dbass\source\repos\WPFUI\WPFUI\obj\Debug\WPFUI.Properties.Resources.resources
+C:\dbass\source\repos\WPFUI\WPFUI\obj\Debug\WPFUI.csproj.GenerateResource.cache
+C:\dbass\source\repos\WPFUI\WPFUI\obj\Debug\WPFUI.csproj.CoreCompileInputs.cache
+C:\dbass\source\repos\WPFUI\WPFUI\obj\Debug\WPFUI.exe
+C:\dbass\source\repos\WPFUI\WPFUI\obj\Debug\WPFUI.pdb
