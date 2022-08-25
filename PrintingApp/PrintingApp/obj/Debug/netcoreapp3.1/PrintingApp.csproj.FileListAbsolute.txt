@@ -1,0 +1,16 @@
+C:\bass\PrintingApp\PrintingApp\bin\Debug\netcoreapp3.1\PrintingApp.exe
+C:\bass\PrintingApp\PrintingApp\bin\Debug\netcoreapp3.1\PrintingApp.deps.json
+C:\bass\PrintingApp\PrintingApp\bin\Debug\netcoreapp3.1\PrintingApp.runtimeconfig.json
+C:\bass\PrintingApp\PrintingApp\bin\Debug\netcoreapp3.1\PrintingApp.runtimeconfig.dev.json
+C:\bass\PrintingApp\PrintingApp\bin\Debug\netcoreapp3.1\PrintingApp.dll
+C:\bass\PrintingApp\PrintingApp\bin\Debug\netcoreapp3.1\PrintingApp.pdb
+C:\bass\PrintingApp\PrintingApp\obj\Debug\netcoreapp3.1\PrintingApp.csproj.AssemblyReference.cache
+C:\bass\PrintingApp\PrintingApp\obj\Debug\netcoreapp3.1\PrintingApp.Form1.resources
+C:\bass\PrintingApp\PrintingApp\obj\Debug\netcoreapp3.1\PrintingApp.csproj.GenerateResource.cache
+C:\bass\PrintingApp\PrintingApp\obj\Debug\netcoreapp3.1\PrintingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\bass\PrintingApp\PrintingApp\obj\Debug\netcoreapp3.1\PrintingApp.AssemblyInfoInputs.cache
+C:\bass\PrintingApp\PrintingApp\obj\Debug\netcoreapp3.1\PrintingApp.AssemblyInfo.cs
+C:\bass\PrintingApp\PrintingApp\obj\Debug\netcoreapp3.1\PrintingApp.csproj.CoreCompileInputs.cache
+C:\bass\PrintingApp\PrintingApp\obj\Debug\netcoreapp3.1\PrintingApp.dll
+C:\bass\PrintingApp\PrintingApp\obj\Debug\netcoreapp3.1\PrintingApp.pdb
+C:\bass\PrintingApp\PrintingApp\obj\Debug\netcoreapp3.1\PrintingApp.genruntimeconfig.cache
