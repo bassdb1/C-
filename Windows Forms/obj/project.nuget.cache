@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jG8stEzzVAqfmruOm9vNDoQ3I4Prw0y9eIKCP+xvwkRUymevCorK21alkzqJpmUgNfu+RR8xISVOyTfHVTMqQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\d-bas\\source\\repos\\Windows Forms\\Windows Forms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\d-bas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
