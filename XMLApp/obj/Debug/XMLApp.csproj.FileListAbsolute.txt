@@ -1,0 +1,7 @@
+C:\dbass\source\repos\XMLApp\bin\Debug\XMLApp.exe.config
+C:\dbass\source\repos\XMLApp\bin\Debug\XMLApp.exe
+C:\dbass\source\repos\XMLApp\bin\Debug\XMLApp.pdb
+C:\dbass\source\repos\XMLApp\obj\Debug\XMLApp.csproj.AssemblyReference.cache
+C:\dbass\source\repos\XMLApp\obj\Debug\XMLApp.csproj.CoreCompileInputs.cache
+C:\dbass\source\repos\XMLApp\obj\Debug\XMLApp.exe
+C:\dbass\source\repos\XMLApp\obj\Debug\XMLApp.pdb
