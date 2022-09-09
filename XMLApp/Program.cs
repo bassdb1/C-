@@ -11,10 +11,10 @@ namespace XMLApp
     {
         static void Main(string[] args)  // This is where the program starts
         {
-
-            // CreateXMLFile();   // Call the XML Method
-            AddRecordToXML();    // Call the AddRecordToXML Method     
-            Console.ReadLine();  // This will pause the screen
+            ReadRecords();           // Call the ReadRecords Method
+            // CreateXMLFile();      // Call the XML Method
+            //  AddRecordToXML();    // Call the AddRecordToXML Method     
+            Console.ReadLine();      // This will pause the screen
         }
 
         const string xmlFile = @"C:\dbass\source\repos\XMLApp\movies.xml";  // Make a varible where the xmlFile location will be
@@ -51,6 +51,23 @@ namespace XMLApp
             movie.AppendChild(title);
             XmlDoc.Save(xmlFile); // Where I can save my screen, use '@'to make it a literal string, meaning verbatium
             Console.WriteLine(XmlDoc.InnerXml);
+        }
+
+        // Method to read XML Records
+
+        static void ReadRecords()
+        {
+            XmlDocument XmlDoc = new XmlDocument(); //Creates the new object instance called XMLdoc in Memory
+            XmlDoc.Load(xmlFile);  // Loads the XML File
+            XmlNodeList nodes = XmlDoc.SelectNodes("MOVIES/MOVIE");
+
+            // for loop to iterate through the loop
+
+            foreach ( XmlNode node in nodes)
+            {
+                Console.WriteLine($"{node.Attributes[0].Value} {node.ChildNodes[0].InnerText} ");
+
+            }
         }
     }
 }
