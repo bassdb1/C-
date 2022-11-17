@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MySuperBank
 {
-    class Transaction
+    public class Transaction
     {
         // Properties for the Transaction Class
         public decimal Amount { get; }
@@ -14,7 +14,7 @@ namespace MySuperBank
         public string Notes { get; }
 
 
-        // Transaction Contructor, used to set intital values, for my Transaction Properties
+        // Transaction Contructor, used to set intital values, the constructor is how we add values to my Transaction Properties
 
         public Transaction(decimal amount, DateTime date, string note)
         {
