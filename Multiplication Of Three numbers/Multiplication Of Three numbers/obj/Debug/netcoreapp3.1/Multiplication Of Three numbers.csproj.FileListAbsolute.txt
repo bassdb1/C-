@@ -1,0 +1,13 @@
+C:\dbass\source\repos\Multiplication Of Three numbers\Multiplication Of Three numbers\bin\Debug\netcoreapp3.1\Multiplication Of Three numbers.exe
+C:\dbass\source\repos\Multiplication Of Three numbers\Multiplication Of Three numbers\bin\Debug\netcoreapp3.1\Multiplication Of Three numbers.deps.json
+C:\dbass\source\repos\Multiplication Of Three numbers\Multiplication Of Three numbers\bin\Debug\netcoreapp3.1\Multiplication Of Three numbers.runtimeconfig.json
+C:\dbass\source\repos\Multiplication Of Three numbers\Multiplication Of Three numbers\bin\Debug\netcoreapp3.1\Multiplication Of Three numbers.runtimeconfig.dev.json
+C:\dbass\source\repos\Multiplication Of Three numbers\Multiplication Of Three numbers\bin\Debug\netcoreapp3.1\Multiplication Of Three numbers.dll
+C:\dbass\source\repos\Multiplication Of Three numbers\Multiplication Of Three numbers\bin\Debug\netcoreapp3.1\Multiplication Of Three numbers.pdb
+C:\dbass\source\repos\Multiplication Of Three numbers\Multiplication Of Three numbers\obj\Debug\netcoreapp3.1\Multiplication Of Three numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\dbass\source\repos\Multiplication Of Three numbers\Multiplication Of Three numbers\obj\Debug\netcoreapp3.1\Multiplication Of Three numbers.AssemblyInfoInputs.cache
+C:\dbass\source\repos\Multiplication Of Three numbers\Multiplication Of Three numbers\obj\Debug\netcoreapp3.1\Multiplication Of Three numbers.AssemblyInfo.cs
+C:\dbass\source\repos\Multiplication Of Three numbers\Multiplication Of Three numbers\obj\Debug\netcoreapp3.1\Multiplication Of Three numbers.csproj.CoreCompileInputs.cache
+C:\dbass\source\repos\Multiplication Of Three numbers\Multiplication Of Three numbers\obj\Debug\netcoreapp3.1\Multiplication Of Three numbers.dll
+C:\dbass\source\repos\Multiplication Of Three numbers\Multiplication Of Three numbers\obj\Debug\netcoreapp3.1\Multiplication Of Three numbers.pdb
+C:\dbass\source\repos\Multiplication Of Three numbers\Multiplication Of Three numbers\obj\Debug\netcoreapp3.1\Multiplication Of Three numbers.genruntimeconfig.cache
