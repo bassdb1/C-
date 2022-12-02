@@ -1,0 +1,14 @@
+C:\dbass\source\repos\Operations of Numbers\Operations of Numbers\bin\Debug\netcoreapp3.1\Operations of Numbers.exe
+C:\dbass\source\repos\Operations of Numbers\Operations of Numbers\bin\Debug\netcoreapp3.1\Operations of Numbers.deps.json
+C:\dbass\source\repos\Operations of Numbers\Operations of Numbers\bin\Debug\netcoreapp3.1\Operations of Numbers.runtimeconfig.json
+C:\dbass\source\repos\Operations of Numbers\Operations of Numbers\bin\Debug\netcoreapp3.1\Operations of Numbers.runtimeconfig.dev.json
+C:\dbass\source\repos\Operations of Numbers\Operations of Numbers\bin\Debug\netcoreapp3.1\Operations of Numbers.dll
+C:\dbass\source\repos\Operations of Numbers\Operations of Numbers\bin\Debug\netcoreapp3.1\Operations of Numbers.pdb
+C:\dbass\source\repos\Operations of Numbers\Operations of Numbers\obj\Debug\netcoreapp3.1\Operations of Numbers.csproj.AssemblyReference.cache
+C:\dbass\source\repos\Operations of Numbers\Operations of Numbers\obj\Debug\netcoreapp3.1\Operations of Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\dbass\source\repos\Operations of Numbers\Operations of Numbers\obj\Debug\netcoreapp3.1\Operations of Numbers.AssemblyInfoInputs.cache
+C:\dbass\source\repos\Operations of Numbers\Operations of Numbers\obj\Debug\netcoreapp3.1\Operations of Numbers.AssemblyInfo.cs
+C:\dbass\source\repos\Operations of Numbers\Operations of Numbers\obj\Debug\netcoreapp3.1\Operations of Numbers.csproj.CoreCompileInputs.cache
+C:\dbass\source\repos\Operations of Numbers\Operations of Numbers\obj\Debug\netcoreapp3.1\Operations of Numbers.dll
+C:\dbass\source\repos\Operations of Numbers\Operations of Numbers\obj\Debug\netcoreapp3.1\Operations of Numbers.pdb
+C:\dbass\source\repos\Operations of Numbers\Operations of Numbers\obj\Debug\netcoreapp3.1\Operations of Numbers.genruntimeconfig.cache
