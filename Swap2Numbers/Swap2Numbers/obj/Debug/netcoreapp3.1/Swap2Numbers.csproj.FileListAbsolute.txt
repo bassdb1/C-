@@ -1,0 +1,13 @@
+C:\dbass\source\repos\Swap2Numbers\Swap2Numbers\bin\Debug\netcoreapp3.1\Swap2Numbers.exe
+C:\dbass\source\repos\Swap2Numbers\Swap2Numbers\bin\Debug\netcoreapp3.1\Swap2Numbers.deps.json
+C:\dbass\source\repos\Swap2Numbers\Swap2Numbers\bin\Debug\netcoreapp3.1\Swap2Numbers.runtimeconfig.json
+C:\dbass\source\repos\Swap2Numbers\Swap2Numbers\bin\Debug\netcoreapp3.1\Swap2Numbers.runtimeconfig.dev.json
+C:\dbass\source\repos\Swap2Numbers\Swap2Numbers\bin\Debug\netcoreapp3.1\Swap2Numbers.dll
+C:\dbass\source\repos\Swap2Numbers\Swap2Numbers\bin\Debug\netcoreapp3.1\Swap2Numbers.pdb
+C:\dbass\source\repos\Swap2Numbers\Swap2Numbers\obj\Debug\netcoreapp3.1\Swap2Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\dbass\source\repos\Swap2Numbers\Swap2Numbers\obj\Debug\netcoreapp3.1\Swap2Numbers.AssemblyInfoInputs.cache
+C:\dbass\source\repos\Swap2Numbers\Swap2Numbers\obj\Debug\netcoreapp3.1\Swap2Numbers.AssemblyInfo.cs
+C:\dbass\source\repos\Swap2Numbers\Swap2Numbers\obj\Debug\netcoreapp3.1\Swap2Numbers.csproj.CoreCompileInputs.cache
+C:\dbass\source\repos\Swap2Numbers\Swap2Numbers\obj\Debug\netcoreapp3.1\Swap2Numbers.dll
+C:\dbass\source\repos\Swap2Numbers\Swap2Numbers\obj\Debug\netcoreapp3.1\Swap2Numbers.pdb
+C:\dbass\source\repos\Swap2Numbers\Swap2Numbers\obj\Debug\netcoreapp3.1\Swap2Numbers.genruntimeconfig.cache
