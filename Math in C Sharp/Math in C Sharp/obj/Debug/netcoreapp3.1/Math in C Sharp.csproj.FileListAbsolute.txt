@@ -1,0 +1,13 @@
+C:\Users\idsoftware\source\repos\Math in C Sharp\Math in C Sharp\bin\Debug\netcoreapp3.1\Math in C Sharp.exe
+C:\Users\idsoftware\source\repos\Math in C Sharp\Math in C Sharp\bin\Debug\netcoreapp3.1\Math in C Sharp.deps.json
+C:\Users\idsoftware\source\repos\Math in C Sharp\Math in C Sharp\bin\Debug\netcoreapp3.1\Math in C Sharp.runtimeconfig.json
+C:\Users\idsoftware\source\repos\Math in C Sharp\Math in C Sharp\bin\Debug\netcoreapp3.1\Math in C Sharp.runtimeconfig.dev.json
+C:\Users\idsoftware\source\repos\Math in C Sharp\Math in C Sharp\bin\Debug\netcoreapp3.1\Math in C Sharp.dll
+C:\Users\idsoftware\source\repos\Math in C Sharp\Math in C Sharp\bin\Debug\netcoreapp3.1\Math in C Sharp.pdb
+C:\Users\idsoftware\source\repos\Math in C Sharp\Math in C Sharp\obj\Debug\netcoreapp3.1\Math in C Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idsoftware\source\repos\Math in C Sharp\Math in C Sharp\obj\Debug\netcoreapp3.1\Math in C Sharp.AssemblyInfoInputs.cache
+C:\Users\idsoftware\source\repos\Math in C Sharp\Math in C Sharp\obj\Debug\netcoreapp3.1\Math in C Sharp.AssemblyInfo.cs
+C:\Users\idsoftware\source\repos\Math in C Sharp\Math in C Sharp\obj\Debug\netcoreapp3.1\Math in C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\idsoftware\source\repos\Math in C Sharp\Math in C Sharp\obj\Debug\netcoreapp3.1\Math in C Sharp.dll
+C:\Users\idsoftware\source\repos\Math in C Sharp\Math in C Sharp\obj\Debug\netcoreapp3.1\Math in C Sharp.pdb
+C:\Users\idsoftware\source\repos\Math in C Sharp\Math in C Sharp\obj\Debug\netcoreapp3.1\Math in C Sharp.genruntimeconfig.cache
