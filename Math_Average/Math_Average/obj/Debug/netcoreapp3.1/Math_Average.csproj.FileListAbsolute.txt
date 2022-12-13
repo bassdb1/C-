@@ -1,0 +1,14 @@
+C:\dbass\source\Math_Average\Math_Average\obj\Debug\netcoreapp3.1\Math_Average.csproj.AssemblyReference.cache
+C:\dbass\source\Math_Average\Math_Average\obj\Debug\netcoreapp3.1\Math_Average.GeneratedMSBuildEditorConfig.editorconfig
+C:\dbass\source\Math_Average\Math_Average\obj\Debug\netcoreapp3.1\Math_Average.AssemblyInfoInputs.cache
+C:\dbass\source\Math_Average\Math_Average\obj\Debug\netcoreapp3.1\Math_Average.AssemblyInfo.cs
+C:\dbass\source\Math_Average\Math_Average\obj\Debug\netcoreapp3.1\Math_Average.csproj.CoreCompileInputs.cache
+C:\dbass\source\Math_Average\Math_Average\bin\Debug\netcoreapp3.1\Math_Average.exe
+C:\dbass\source\Math_Average\Math_Average\bin\Debug\netcoreapp3.1\Math_Average.deps.json
+C:\dbass\source\Math_Average\Math_Average\bin\Debug\netcoreapp3.1\Math_Average.runtimeconfig.json
+C:\dbass\source\Math_Average\Math_Average\bin\Debug\netcoreapp3.1\Math_Average.runtimeconfig.dev.json
+C:\dbass\source\Math_Average\Math_Average\bin\Debug\netcoreapp3.1\Math_Average.dll
+C:\dbass\source\Math_Average\Math_Average\bin\Debug\netcoreapp3.1\Math_Average.pdb
+C:\dbass\source\Math_Average\Math_Average\obj\Debug\netcoreapp3.1\Math_Average.dll
+C:\dbass\source\Math_Average\Math_Average\obj\Debug\netcoreapp3.1\Math_Average.pdb
+C:\dbass\source\Math_Average\Math_Average\obj\Debug\netcoreapp3.1\Math_Average.genruntimeconfig.cache
