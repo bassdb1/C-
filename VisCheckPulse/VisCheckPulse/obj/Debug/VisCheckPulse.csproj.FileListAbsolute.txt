@@ -1,0 +1,7 @@
+C:\dbass\source\repos\VisCheckPulse\VisCheckPulse\bin\Debug\VisCheckPulse.exe.config
+C:\dbass\source\repos\VisCheckPulse\VisCheckPulse\bin\Debug\VisCheckPulse.exe
+C:\dbass\source\repos\VisCheckPulse\VisCheckPulse\bin\Debug\VisCheckPulse.pdb
+C:\dbass\source\repos\VisCheckPulse\VisCheckPulse\obj\Debug\VisCheckPulse.csproj.AssemblyReference.cache
+C:\dbass\source\repos\VisCheckPulse\VisCheckPulse\obj\Debug\VisCheckPulse.csproj.CoreCompileInputs.cache
+C:\dbass\source\repos\VisCheckPulse\VisCheckPulse\obj\Debug\VisCheckPulse.exe
+C:\dbass\source\repos\VisCheckPulse\VisCheckPulse\obj\Debug\VisCheckPulse.pdb
