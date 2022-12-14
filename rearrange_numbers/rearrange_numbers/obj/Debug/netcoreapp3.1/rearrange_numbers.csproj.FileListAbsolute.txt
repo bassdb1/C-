@@ -1,0 +1,14 @@
+C:\dbass\source\rearrange_numbers\rearrange_numbers\bin\Debug\netcoreapp3.1\rearrange_numbers.exe
+C:\dbass\source\rearrange_numbers\rearrange_numbers\bin\Debug\netcoreapp3.1\rearrange_numbers.deps.json
+C:\dbass\source\rearrange_numbers\rearrange_numbers\bin\Debug\netcoreapp3.1\rearrange_numbers.runtimeconfig.json
+C:\dbass\source\rearrange_numbers\rearrange_numbers\bin\Debug\netcoreapp3.1\rearrange_numbers.runtimeconfig.dev.json
+C:\dbass\source\rearrange_numbers\rearrange_numbers\bin\Debug\netcoreapp3.1\rearrange_numbers.dll
+C:\dbass\source\rearrange_numbers\rearrange_numbers\bin\Debug\netcoreapp3.1\rearrange_numbers.pdb
+C:\dbass\source\rearrange_numbers\rearrange_numbers\obj\Debug\netcoreapp3.1\rearrange_numbers.csproj.AssemblyReference.cache
+C:\dbass\source\rearrange_numbers\rearrange_numbers\obj\Debug\netcoreapp3.1\rearrange_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\dbass\source\rearrange_numbers\rearrange_numbers\obj\Debug\netcoreapp3.1\rearrange_numbers.AssemblyInfoInputs.cache
+C:\dbass\source\rearrange_numbers\rearrange_numbers\obj\Debug\netcoreapp3.1\rearrange_numbers.AssemblyInfo.cs
+C:\dbass\source\rearrange_numbers\rearrange_numbers\obj\Debug\netcoreapp3.1\rearrange_numbers.csproj.CoreCompileInputs.cache
+C:\dbass\source\rearrange_numbers\rearrange_numbers\obj\Debug\netcoreapp3.1\rearrange_numbers.dll
+C:\dbass\source\rearrange_numbers\rearrange_numbers\obj\Debug\netcoreapp3.1\rearrange_numbers.pdb
+C:\dbass\source\rearrange_numbers\rearrange_numbers\obj\Debug\netcoreapp3.1\rearrange_numbers.genruntimeconfig.cache
