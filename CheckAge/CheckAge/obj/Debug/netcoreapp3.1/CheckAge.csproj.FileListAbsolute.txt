@@ -1,0 +1,14 @@
+C:\dbass\source\repos\CheckAge\CheckAge\bin\Debug\netcoreapp3.1\CheckAge.exe
+C:\dbass\source\repos\CheckAge\CheckAge\bin\Debug\netcoreapp3.1\CheckAge.deps.json
+C:\dbass\source\repos\CheckAge\CheckAge\bin\Debug\netcoreapp3.1\CheckAge.runtimeconfig.json
+C:\dbass\source\repos\CheckAge\CheckAge\bin\Debug\netcoreapp3.1\CheckAge.runtimeconfig.dev.json
+C:\dbass\source\repos\CheckAge\CheckAge\bin\Debug\netcoreapp3.1\CheckAge.dll
+C:\dbass\source\repos\CheckAge\CheckAge\bin\Debug\netcoreapp3.1\CheckAge.pdb
+C:\dbass\source\repos\CheckAge\CheckAge\obj\Debug\netcoreapp3.1\CheckAge.csproj.AssemblyReference.cache
+C:\dbass\source\repos\CheckAge\CheckAge\obj\Debug\netcoreapp3.1\CheckAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\dbass\source\repos\CheckAge\CheckAge\obj\Debug\netcoreapp3.1\CheckAge.AssemblyInfoInputs.cache
+C:\dbass\source\repos\CheckAge\CheckAge\obj\Debug\netcoreapp3.1\CheckAge.AssemblyInfo.cs
+C:\dbass\source\repos\CheckAge\CheckAge\obj\Debug\netcoreapp3.1\CheckAge.csproj.CoreCompileInputs.cache
+C:\dbass\source\repos\CheckAge\CheckAge\obj\Debug\netcoreapp3.1\CheckAge.dll
+C:\dbass\source\repos\CheckAge\CheckAge\obj\Debug\netcoreapp3.1\CheckAge.pdb
+C:\dbass\source\repos\CheckAge\CheckAge\obj\Debug\netcoreapp3.1\CheckAge.genruntimeconfig.cache
