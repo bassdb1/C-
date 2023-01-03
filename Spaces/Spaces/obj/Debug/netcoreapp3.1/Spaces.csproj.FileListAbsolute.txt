@@ -1,0 +1,14 @@
+C:\dbass\source\repos\Spaces\Spaces\bin\Debug\netcoreapp3.1\Spaces.exe
+C:\dbass\source\repos\Spaces\Spaces\bin\Debug\netcoreapp3.1\Spaces.deps.json
+C:\dbass\source\repos\Spaces\Spaces\bin\Debug\netcoreapp3.1\Spaces.runtimeconfig.json
+C:\dbass\source\repos\Spaces\Spaces\bin\Debug\netcoreapp3.1\Spaces.runtimeconfig.dev.json
+C:\dbass\source\repos\Spaces\Spaces\bin\Debug\netcoreapp3.1\Spaces.dll
+C:\dbass\source\repos\Spaces\Spaces\bin\Debug\netcoreapp3.1\Spaces.pdb
+C:\dbass\source\repos\Spaces\Spaces\obj\Debug\netcoreapp3.1\Spaces.csproj.AssemblyReference.cache
+C:\dbass\source\repos\Spaces\Spaces\obj\Debug\netcoreapp3.1\Spaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\dbass\source\repos\Spaces\Spaces\obj\Debug\netcoreapp3.1\Spaces.AssemblyInfoInputs.cache
+C:\dbass\source\repos\Spaces\Spaces\obj\Debug\netcoreapp3.1\Spaces.AssemblyInfo.cs
+C:\dbass\source\repos\Spaces\Spaces\obj\Debug\netcoreapp3.1\Spaces.csproj.CoreCompileInputs.cache
+C:\dbass\source\repos\Spaces\Spaces\obj\Debug\netcoreapp3.1\Spaces.dll
+C:\dbass\source\repos\Spaces\Spaces\obj\Debug\netcoreapp3.1\Spaces.pdb
+C:\dbass\source\repos\Spaces\Spaces\obj\Debug\netcoreapp3.1\Spaces.genruntimeconfig.cache
