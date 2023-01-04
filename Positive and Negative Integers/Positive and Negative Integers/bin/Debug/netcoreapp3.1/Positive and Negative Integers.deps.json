@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Positive and Negative Integers/1.0.0": {
+        "runtime": {
+          "Positive and Negative Integers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Positive and Negative Integers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

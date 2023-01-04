@@ -1,0 +1,14 @@
+C:\dbass\source\repos\Positive and Negative Integers\Positive and Negative Integers\bin\Debug\netcoreapp3.1\Positive and Negative Integers.exe
+C:\dbass\source\repos\Positive and Negative Integers\Positive and Negative Integers\bin\Debug\netcoreapp3.1\Positive and Negative Integers.deps.json
+C:\dbass\source\repos\Positive and Negative Integers\Positive and Negative Integers\bin\Debug\netcoreapp3.1\Positive and Negative Integers.runtimeconfig.json
+C:\dbass\source\repos\Positive and Negative Integers\Positive and Negative Integers\bin\Debug\netcoreapp3.1\Positive and Negative Integers.runtimeconfig.dev.json
+C:\dbass\source\repos\Positive and Negative Integers\Positive and Negative Integers\bin\Debug\netcoreapp3.1\Positive and Negative Integers.dll
+C:\dbass\source\repos\Positive and Negative Integers\Positive and Negative Integers\bin\Debug\netcoreapp3.1\Positive and Negative Integers.pdb
+C:\dbass\source\repos\Positive and Negative Integers\Positive and Negative Integers\obj\Debug\netcoreapp3.1\Positive and Negative Integers.csproj.AssemblyReference.cache
+C:\dbass\source\repos\Positive and Negative Integers\Positive and Negative Integers\obj\Debug\netcoreapp3.1\Positive and Negative Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\dbass\source\repos\Positive and Negative Integers\Positive and Negative Integers\obj\Debug\netcoreapp3.1\Positive and Negative Integers.AssemblyInfoInputs.cache
+C:\dbass\source\repos\Positive and Negative Integers\Positive and Negative Integers\obj\Debug\netcoreapp3.1\Positive and Negative Integers.AssemblyInfo.cs
+C:\dbass\source\repos\Positive and Negative Integers\Positive and Negative Integers\obj\Debug\netcoreapp3.1\Positive and Negative Integers.csproj.CoreCompileInputs.cache
+C:\dbass\source\repos\Positive and Negative Integers\Positive and Negative Integers\obj\Debug\netcoreapp3.1\Positive and Negative Integers.dll
+C:\dbass\source\repos\Positive and Negative Integers\Positive and Negative Integers\obj\Debug\netcoreapp3.1\Positive and Negative Integers.pdb
+C:\dbass\source\repos\Positive and Negative Integers\Positive and Negative Integers\obj\Debug\netcoreapp3.1\Positive and Negative Integers.genruntimeconfig.cache
