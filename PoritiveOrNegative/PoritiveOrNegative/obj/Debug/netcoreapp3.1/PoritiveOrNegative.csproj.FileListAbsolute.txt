@@ -1,0 +1,14 @@
+C:\dbass\source\repos\PoritiveOrNegative\PoritiveOrNegative\bin\Debug\netcoreapp3.1\PoritiveOrNegative.exe
+C:\dbass\source\repos\PoritiveOrNegative\PoritiveOrNegative\bin\Debug\netcoreapp3.1\PoritiveOrNegative.deps.json
+C:\dbass\source\repos\PoritiveOrNegative\PoritiveOrNegative\bin\Debug\netcoreapp3.1\PoritiveOrNegative.runtimeconfig.json
+C:\dbass\source\repos\PoritiveOrNegative\PoritiveOrNegative\bin\Debug\netcoreapp3.1\PoritiveOrNegative.runtimeconfig.dev.json
+C:\dbass\source\repos\PoritiveOrNegative\PoritiveOrNegative\bin\Debug\netcoreapp3.1\PoritiveOrNegative.dll
+C:\dbass\source\repos\PoritiveOrNegative\PoritiveOrNegative\bin\Debug\netcoreapp3.1\PoritiveOrNegative.pdb
+C:\dbass\source\repos\PoritiveOrNegative\PoritiveOrNegative\obj\Debug\netcoreapp3.1\PoritiveOrNegative.csproj.AssemblyReference.cache
+C:\dbass\source\repos\PoritiveOrNegative\PoritiveOrNegative\obj\Debug\netcoreapp3.1\PoritiveOrNegative.GeneratedMSBuildEditorConfig.editorconfig
+C:\dbass\source\repos\PoritiveOrNegative\PoritiveOrNegative\obj\Debug\netcoreapp3.1\PoritiveOrNegative.AssemblyInfoInputs.cache
+C:\dbass\source\repos\PoritiveOrNegative\PoritiveOrNegative\obj\Debug\netcoreapp3.1\PoritiveOrNegative.AssemblyInfo.cs
+C:\dbass\source\repos\PoritiveOrNegative\PoritiveOrNegative\obj\Debug\netcoreapp3.1\PoritiveOrNegative.csproj.CoreCompileInputs.cache
+C:\dbass\source\repos\PoritiveOrNegative\PoritiveOrNegative\obj\Debug\netcoreapp3.1\PoritiveOrNegative.dll
+C:\dbass\source\repos\PoritiveOrNegative\PoritiveOrNegative\obj\Debug\netcoreapp3.1\PoritiveOrNegative.pdb
+C:\dbass\source\repos\PoritiveOrNegative\PoritiveOrNegative\obj\Debug\netcoreapp3.1\PoritiveOrNegative.genruntimeconfig.cache
